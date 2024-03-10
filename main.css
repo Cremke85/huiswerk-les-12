@@ -10,7 +10,7 @@ footer{
 }
 p.tabel{
     border-style: solid;
-    border: 3px;
+    border-width: 3px;
     border-color: black;
 }
 #auto{
