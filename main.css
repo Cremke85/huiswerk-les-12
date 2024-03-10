@@ -8,7 +8,7 @@ footer{
     width: 100%;
     height: 150px;
 }
-#tabel{
+p.tabel{
     border-style: solid;
     border: 3px;
     border-color: black;
