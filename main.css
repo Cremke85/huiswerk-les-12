@@ -9,6 +9,7 @@ footer{
     height: 150px;
 }
 #tabel{
+    border-style: solid;
     border: 3px;
     border-color: black;
 }
