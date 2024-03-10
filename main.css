@@ -10,6 +10,7 @@ footer{
 }
 #tabel{
     border: 3px;
+    border-color: black;
 }
 #auto{
     background-color: red;
