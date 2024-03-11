@@ -17,39 +17,63 @@ footer{
     background-color: red;
     width: 200px;
     height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
 }
 #fiets{
     background-color: yellow;
     width: 200px;
     height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
 }
 #step{
     background-color: burlywood;
     width: 200px;
     height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
 }
 #scooter{
     background-color: orange;
     width: 200px;
     height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
 }
 #appel{
     background-color: green;
     width: 200px;
     height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;    
 }
 #banaan{
     background-color: yellowgreen;
     width: 200px;
     height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
 }
 #kiwi{
     background-color: brown;
     width: 200px;
     height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
 }
 #peer{
     background-color: purple;
     width: 200px;
     height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
 }
